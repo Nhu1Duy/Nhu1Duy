@@ -13,48 +13,16 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
 </div>
-
----
-
-## 🎮 Về mình
-- 🌱 Đang học JavaScript mỗi ngày
-- 🐛 Sở thích: tạo bug rồi ngồi sửa
-- ☕ Nhiên liệu: cà phê + mì gói
-- 🚀 Mục tiêu: làm được thật nhiều dự án vui
-
----
 
 ## 📊 Thống kê GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nhu1Duy&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhu1Duy&theme=radical" height="170" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhu1Duy&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="170" />
 
 </div>
 
----
-
-## 🏆 Huy chương
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nhu1Duy&theme=onedark&column=4" />
-
-</div>
-
----
-
-## 💬 Câu nói của ngày
 
 <div align="center">
 
@@ -68,7 +36,7 @@
 
 👀 Lượt ghé thăm:
 
-<img src="https://komarev.com/ghpvc/?username=Nhu1Duy&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
