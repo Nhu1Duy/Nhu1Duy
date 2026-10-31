@@ -33,12 +33,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nhu1Duy&show_icons=true&theme=radical" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhu1Duy&theme=radical" height="170" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhu1Duy&layout=compact&theme=radical" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nhu1Duy&theme=onedark&column=4" />
 
 </div>
 
@@ -68,7 +68,7 @@
 
 👀 Lượt ghé thăm:
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Nhu1Duy&color=blueviolet&style=flat-square" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
